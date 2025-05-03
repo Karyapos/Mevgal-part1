@@ -77,3 +77,5 @@ Now that the model is in place, I'm moving into **Part 2**, where I will explore
 2. **Merchant Deal**
 3. **Quality Reduction**
 4. **Logistics Investment**
+
+For a more detailed and polished presentation of this project, feel free to explore my Notion page: https://ten-christmas-260.notion.site/Mevgal-Project-Part-1-Data-Creation-Understanding-and-Basic-Analysis-1dc434ba33238083a9a9d61e52c5d36a
